@@ -1,0 +1,7 @@
+{ "movies": [
+  {"name": "Harry Potter 1", "year": 2000, "genre": "comedy", "reg": "Tarantino", "time": "2:08"},
+  {"name": "Harry Potter 2", "year": 2001, "genre": "melodrama", "reg": "Nolan", "time": "2:34"},
+  {"name": "Harry Potter 3", "year": 2002, "genre": "thriller", "reg": "Kubrik", "time": "2:17"},
+  {"name": "Harry Potter 4", "year": 2003, "genre": "fantasy", "reg": "Jackson", "time": "2:25"},
+  {"name": "Harry Potter 5", "year": 2004, "genre": "action", "reg": "Spilberg", "time": "2:45"}
+]}
